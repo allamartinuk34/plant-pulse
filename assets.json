@@ -1,0 +1,59 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, one single glossy 3D sage green monstera leaf, centered, soft cream radial gradient background, crisp, no text"
+    },
+    {
+      "name": "bg_splash",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile app background, dark moody greenhouse interior at night, deep forest green, soft bokeh, low contrast, no text, no UI"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile app background, bright airy greenhouse journal, cream paper tone with faint botanical line art, very light, no text, no UI"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile app background, soft blurred pale green foliage, very low contrast for UI overlay, cream wash, no text, no UI"
+    },
+    {
+      "name": "sprite_monstera",
+      "type": "sprite",
+      "prompt": "One single potted monstera plant, centered icon, soft 3D render, terracotta pot, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_succulent",
+      "type": "sprite",
+      "prompt": "One single potted round succulent, centered icon, soft 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_fern",
+      "type": "sprite",
+      "prompt": "One single potted boston fern, centered icon, soft 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_watering_can",
+      "type": "sprite",
+      "prompt": "One single sage green watering can, centered icon, soft 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_mist_spray",
+      "type": "sprite",
+      "prompt": "One single glass mist spray bottle, centered icon, soft 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_soil_bag",
+      "type": "sprite",
+      "prompt": "One single small bag of plant fertilizer, centered icon, soft 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_leaf_badge",
+      "type": "sprite",
+      "prompt": "One single glossy green leaf emblem inside a thin circular ring, centered icon, soft 3D render, isolated on plain white, no other objects"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PlantPulse</string>
+
+    <string name="cd_settings">Settings</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_close">Close</string>
+    <string name="cd_care_log">Care log</string>
+    <string name="cd_plant">%1$s, %2$s</string>
+    <string name="cd_interval_up">Longer watering interval</string>
+    <string name="cd_interval_down">Shorter watering interval</string>
+
+    <string name="splash_title_line1">PLANT</string>
+    <string name="splash_title_line2">PULSE</string>
+    <string name="splash_tagline">A QUIET GREENHOUSE JOURNAL</string>
+    <string name="splash_status">PREPARING YOUR SHELF</string>
+
+    <string name="menu_date">%1$s - WEEK %2$d</string>
+    <string name="menu_hero_line1">PLANT</string>
+    <string name="menu_hero_line2">PULSE</string>
+    <string name="menu_tagline">SIX PLANTS. ONE QUIET ROUTINE.</string>
+    <string name="menu_due_count">%1$d PLANTS ARE THIRSTY</string>
+    <string name="menu_due_one">ONE PLANT IS THIRSTY</string>
+    <string name="menu_due_none">EVERYTHING IS WATERED</string>
+    <string name="menu_next_mist">NEXT: MIST ON FRIDAY</string>
+    <string name="menu_next_round">NEXT ROUND IN %1$d DAYS</string>
+    <string name="menu_hint">TAP A PLANT TO OPEN ITS PROFILE</string>
+    <string name="menu_row_subtitle">%1$s - %2$s</string>
+    <string name="menu_error">COULD NOT READ SAVED SHELF - USING A FRESH ONE</string>
+
+    <string name="cta_start_care">START CARE</string>
+    <string name="cta_water_now">WATER NOW</string>
+    <string name="cta_care_again">CARE AGAIN</string>
+    <string name="cta_menu">MENU</string>
+    <string name="cta_schedule">SCHEDULE</string>
+    <string name="cta_care_log">CARE LOG</string>
+    <string name="cta_skip">SKIP</string>
+    <string name="cta_add_note">ADD NOTE</string>
+    <string name="cta_save_note">SAVE NOTE</string>
+    <string name="cta_save_name">SAVE NAME</string>
+    <string name="cta_rename">RENAME</string>
+    <string name="cta_water">WATER</string>
+    <string name="cta_reset_shelf">RESET SHELF</string>
+    <string name="cta_reset">RESET</string>
+    <string name="cta_cancel">CANCEL</string>
+
+    <string name="game_caption">CARE SESSION</string>
+    <string name="game_position">PLANT %1$d OF %2$d</string>
+    <string name="game_subtitle">%1$s - %2$s</string>
+    <string name="game_round_done">ROUND COMPLETE</string>
+    <string name="game_fact_last">LAST</string>
+    <string name="game_fact_every">EVERY</string>
+    <string name="game_fact_pour">POUR</string>
+    <string name="game_stat_watered">WATERED</string>
+    <string name="game_stat_left">LEFT</string>
+    <string name="game_stat_streak">STREAK</string>
+
+    <string name="percent_value">%1$d%%</string>
+    <string name="days_short">%1$dD</string>
+    <string name="days_ago_short">%1$dD AGO</string>
+    <string name="streak_days">%1$dD</string>
+    <string name="pour_ml">%1$d ML</string>
+    <string name="pour_cups">%1$s CUPS</string>
+    <string name="pour_cup_one">1 CUP</string>
+
+    <string name="over_title_all">SHELF REFRESHED</string>
+    <string name="over_title_some">ROUND LOGGED</string>
+    <string name="over_title_none">NOTHING TO DO</string>
+    <string name="over_subtitle">%1$d OF %2$d PLANTS WATERED TODAY</string>
+    <string name="over_stat_watered">WATERED</string>
+    <string name="over_stat_skipped">SKIPPED</string>
+    <string name="over_stat_health">SHELF HEALTH</string>
+    <string name="over_stat_streak">STREAK</string>
+    <string name="over_stat_due">STILL DUE</string>
+    <string name="over_notes_title">ROUND NOTES</string>
+    <string name="over_notes_empty">NO NOTES THIS ROUND</string>
+    <string name="over_hint">YOUR SHELF IS SAVED ON THIS DEVICE</string>
+
+    <string name="profile_title">PLANT PROFILE</string>
+    <string name="profile_moisture">MOISTURE</string>
+    <string name="profile_every">EVERY</string>
+    <string name="profile_pour">POUR</string>
+    <string name="profile_recent">RECENT CARE</string>
+    <string name="profile_no_entries">NO ENTRIES FOR THIS PLANT YET</string>
+    <string name="profile_rename_label">PLANT NAME</string>
+    <string name="profile_interval">WATER EVERY %1$d DAYS</string>
+
+    <string name="log_title">CARE LOG</string>
+    <string name="log_compose_title">ADD A NOTE</string>
+    <string name="log_note_label">NOTE</string>
+    <string name="log_counter">%1$d / %2$d</string>
+    <string name="log_empty">NO ENTRIES YET - YOUR FIRST ROUND WILL FILL THIS PAGE</string>
+    <string name="log_today">TODAY</string>
+    <string name="tag_new_leaf">NEW LEAF</string>
+    <string name="tag_dry_tips">DRY TIPS</string>
+    <string name="tag_repotted">REPOTTED</string>
+    <string name="tag_fed">FED</string>
+    <string name="kind_water">WATERED</string>
+    <string name="kind_mist">MISTED</string>
+    <string name="kind_feed">FED</string>
+
+    <string name="schedule_title">SCHEDULE</string>
+    <string name="schedule_next">NEXT 7 DAYS</string>
+    <string name="schedule_empty">NOTHING DUE THIS WEEK</string>
+    <string name="schedule_in_days">IN %1$dD</string>
+    <string name="schedule_today">TODAY</string>
+
+    <string name="day_mon">MON</string>
+    <string name="day_tue">TUE</string>
+    <string name="day_wed">WED</string>
+    <string name="day_thu">THU</string>
+    <string name="day_fri">FRI</string>
+    <string name="day_sat">SAT</string>
+    <string name="day_sun">SUN</string>
+
+    <string name="settings_title">SETTINGS</string>
+    <string name="settings_units">POUR UNITS</string>
+    <string name="settings_unit_ml">ML</string>
+    <string name="settings_unit_cups">CUPS</string>
+    <string name="settings_week">WEEK BEGINS ON</string>
+    <string name="settings_week_mon">MON</string>
+    <string name="settings_week_sun">SUN</string>
+    <string name="settings_nudge">INTERVAL NUDGE</string>
+    <string name="settings_nudge_minus">-1D</string>
+    <string name="settings_nudge_zero">0</string>
+    <string name="settings_nudge_plus">+1D</string>
+    <string name="settings_footer">ALL DATA STAYS ON THIS DEVICE</string>
+    <string name="reset_title">RESET SHELF</string>
+    <string name="reset_body">THIS CLEARS YOUR SHELF, NOTES AND STREAK</string>
+
+    <string name="sd_moisture">Soil moisture %1$d percent</string>
+    <string name="sd_round_progress">%1$d of %2$d plants done</string>
+    <string name="sd_selected">Selected</string>
+    <string name="sd_not_selected">Not selected</string>
+</resources>
